@@ -2,3 +2,9 @@ target/
 .idea/
 *.class
 *.iml
+/.apt_generated_tests/
+/.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
